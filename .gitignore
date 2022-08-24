@@ -5,6 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+# Other files
+connection.py
+webscraping_practice.ipynb
+decklinks.csv
+save_state.csv
 
 # Distribution / packaging
 .Python
