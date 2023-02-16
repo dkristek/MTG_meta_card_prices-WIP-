@@ -1,10 +1,8 @@
 # MTG_meta_card_prices
 ### Objective
-The objective of this project is to track the price of Magic: The Gathering cards in relation to the amount of times those cards appear in documented tournaments. The goal is to see how a card's popularity in tournaments affects its third-party market price.
+The objective of this project is to analyze how often specific Magic: The Gathering cards are used in tournaments. Currently this repository contains code only for the webscraping of the data with plans to load the data into a SQL database and create a visualization dashboard.
 
 All tournament results were scraped from MTGgoldfish.com
-
-Price data was retrieved from ......
 
 ### Background
 Magic: The Gathering is the most popular and most played Trading Card Game (TCG) in the world. Thousands of people play Magic competitively at various tournaments around the world and online. In Magic, players build a deck of 60 cards with no more than 4 duplicates of any given card (with some exceptions). Magic cards are only available in randomized packs so there is a large secondary market where players buy and sell cards obtained from these randomized packs. The aim of this project is to visualize the price change of a card as its appearances in tournaments changes.
