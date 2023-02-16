@@ -1,4 +1,4 @@
-# MTG_meta_card_prices
+# Magic: The Gathering Card Usage
 ### Objective
 The objective of this project is to analyze how often specific Magic: The Gathering cards are used in tournaments. Currently this repository contains code only for the webscraping of the data with plans to load the data into a SQL database and create a visualization dashboard.
 
